@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC2014\\source\\repos\\WebApiSemana4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A020264-EA74-425B-8192-3984A4F2ACC3}|WebApiSemana4.csproj|c:\\users\\pc2014\\source\\repos\\webapisemana4\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A020264-EA74-425B-8192-3984A4F2ACC3}|WebApiSemana4.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A020264-EA74-425B-8192-3984A4F2ACC3}|WebApiSemana4.csproj|c:\\users\\pc2014\\source\\repos\\webapisemana4\\controllers\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A020264-EA74-425B-8192-3984A4F2ACC3}|WebApiSemana4.csproj|solutionrelative:controllers\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Alumno.cs",
+              "DocumentMoniker": "C:\\Users\\PC2014\\source\\repos\\WebApiSemana4\\Controllers\\Alumno.cs",
+              "RelativeDocumentMoniker": "Controllers\\Alumno.cs",
+              "ToolTip": "C:\\Users\\PC2014\\source\\repos\\WebApiSemana4\\Controllers\\Alumno.cs",
+              "RelativeToolTip": "Controllers\\Alumno.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAIwC0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T13:03:32.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\PC2014\\source\\repos\\WebApiSemana4\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\PC2014\\source\\repos\\WebApiSemana4\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAAAH8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T15:51:32.252Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

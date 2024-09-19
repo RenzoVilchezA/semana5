@@ -1,0 +1,252 @@
+[
+  {
+    "ContainingType": "WebApiSemana4.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[WebApiSemana4.WeatherForecast, WebApiSemana4, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebApiSemana4.Controllers.WeatherForecastController",
+    "Method": "DevolverAlumno",
+    "RelativePath": "WeatherForecast/DevolverAlumno",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebApiSemana4.Controllers.WeatherForecastController",
+    "Method": "DevolverEdad",
+    "RelativePath": "WeatherForecast/DevolverEdad",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Int32",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebApiSemana4.Controllers.WeatherForecastController",
+    "Method": "DevolverEstado",
+    "RelativePath": "WeatherForecast/DevolverEstado/{edad}/{Nombre}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "edad",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "Nombre",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebApiSemana4.Controllers.WeatherForecastController",
+    "Method": "DevolverMayor",
+    "RelativePath": "WeatherForecast/DevolverMayor/{num1}/{num2}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "num1",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "num2",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebApiSemana4.Controllers.WeatherForecastController",
+    "Method": "DevolverResta",
+    "RelativePath": "WeatherForecast/DevolverResta/{Numero1}/{Numero2}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Numero1",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "Numero2",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Int32",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebApiSemana4.Controllers.WeatherForecastController",
+    "Method": "DevolverSaludo",
+    "RelativePath": "WeatherForecast/DevolverSaludo",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebApiSemana4.Controllers.WeatherForecastController",
+    "Method": "DevolverSaludo",
+    "RelativePath": "WeatherForecast/DevolverSaludo/{Nombre}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Nombre",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebApiSemana4.Controllers.WeatherForecastController",
+    "Method": "DevolverSuma",
+    "RelativePath": "WeatherForecast/DevolverSuma/{Numero1}/{Numero2}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Numero1",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "Numero2",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Int32",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebApiSemana4.Controllers.WeatherForecastController",
+    "Method": "DevolverValor",
+    "RelativePath": "WeatherForecast/DevolverValor",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Int32",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
